@@ -23,8 +23,10 @@ Esta semana profundizamos en la estructura de **Binary Search Tree (BST)** y res
 
 ## 👥 Integrante del equipo
 
-- Luis Enrique Galván Morales
-
+- Luis Enrique Galván Morales  
+- Juan Alexis Aguirre Saavedra  
+- Samir Haziel Alfonso Solórzano  
+- Aldo Sebastián Alva Capcha
 ---
 
 ## ⚙️ Herramientas utilizadas
