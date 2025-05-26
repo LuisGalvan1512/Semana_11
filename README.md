@@ -7,6 +7,8 @@
 
 ---
 
+![BTSxd](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 ## 🎬 ¿Qué aprendimos esta semana?
 
 Esta semana profundizamos en la estructura de **Binary Search Tree (BST)** y resolvimos cinco retos técnicos que cubren:
